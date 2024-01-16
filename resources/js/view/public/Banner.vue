@@ -1,7 +1,7 @@
 <template>
     <PageWrap sectionId="banner" sectionBg="bg-[#343a40]">
         <div class="pb-[30px]">
-            <div class="grid grid-cols-2 pt-[30px]">
+            <div class="grid md:grid-cols-2 grid-cols-1 pt-[30px]">
                 <div class="pt-[30px] flex justify-center" data-aos="fade-right" data-aos-duration="1200">
                     <img src="../../assets/tiwari-image.png" class="max-w-[400px]" alt="Deepak">
                 </div>

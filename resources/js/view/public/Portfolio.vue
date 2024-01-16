@@ -16,7 +16,7 @@
                     <div class="absolute bottom-0 left-0  h-[1.5px] ease-in-out delay-150 duration-300" :class="[!toggleBtn ? 'bg-[#d3d2d2] w-full' : 'bg-[#a0a0a0] w-1/3']"></div>
                 </div>
             </div>
-            <div class="mx-auto max-w-5xl grid-cols-3 gap-3 pt-[30px] ease-in-out delay-150 duration-300" :class="[toggleBtn ? 'grid' : 'hidden']">
+            <div class="mx-auto max-w-5xl md:grid-cols-3 grid-cols-1 gap-3 pt-[30px] ease-in-out delay-150 duration-300" :class="[toggleBtn ? 'grid' : 'hidden']">
                 <div class="shadow shadow-[#30363a] bg-[#30363a] h-fit max-h-[600px] rounded-lg overflow-hidden">
                     <div class="img-section h-[150px] overflow-hidden">
                         <img src="https://hrpaul.web.app/img/logo.e19c73e0.png" alt="" class="card-img-top">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
             </div>
-            <div class="mx-auto max-w-5xl grid-cols-3 gap-3 pt-[30px] ease-in-out delay-150 duration-300" :class="[!toggleBtn ? 'grid' : 'hidden']">
+            <div class="mx-auto max-w-5xl md:grid-cols-3 grid-cols-1 gap-3 pt-[30px] ease-in-out delay-150 duration-300" :class="[!toggleBtn ? 'grid' : 'hidden']">
                 <div class="shadow shadow-[#30363a] bg-[#30363a] h-fit max-h-[600px] rounded-lg overflow-hidden">
                     <div class="img-section h-[150px] overflow-hidden">
                         <img src="https://hrpaul.web.app/img/logo.e19c73e0.png" alt="" class="card-img-top">

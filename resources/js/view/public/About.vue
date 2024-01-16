@@ -5,7 +5,7 @@
                 about me.
                 <hr class="w-1/3 mx-auto text-[#d3d2d2] my-[20px] h-[0.5px]"/>
             </div>
-            <div class="mx-auto max-w-6xl grid grid-cols-2 pt-[30px]">
+            <div class="mx-auto max-w-6xl grid md:grid-cols-2 grid-cols-1 pt-[30px]">
                 <div class="pt-[20px] px-[20px]">
                     <div class="mb-[24px]"><span class="text-[24px] text-[#d3d2d2]" data-aos-once="true" data-aos="fade-up" data-aos-duration="800">education</span></div>
                     <div class="pl-[25px]">
