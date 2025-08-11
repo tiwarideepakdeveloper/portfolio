@@ -1,22 +1,22 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-LgWRU0T7.css",
+    "file": "assets/app-AOvpDgQh.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
   "resources/js/app.js": {
     "assets": [
-      "assets/tiwari-image-eMpbbUfW.png"
+      "assets/tiwari-image-a4EEOQfE.png"
     ],
     "css": [
       "assets/app-cZ-N0epX.css"
     ],
-    "file": "assets/app-DhIM4Fau.js",
+    "file": "assets/app-bhfnETD8.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
   "resources/js/assets/tiwari-image.png": {
-    "file": "assets/tiwari-image-eMpbbUfW.png",
+    "file": "assets/tiwari-image-a4EEOQfE.png",
     "src": "resources/js/assets/tiwari-image.png"
   }
 }

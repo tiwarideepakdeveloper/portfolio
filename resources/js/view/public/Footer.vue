@@ -2,7 +2,7 @@
     <PageWrap sectionId="footer" sectionBg="bg-[#262c30]">
         <div class="py-[20px]">
             <div class="mx-auto max-w-4xl grid grid-cols-2 items-center gap-3">
-                <div class="text-[#d3d2d2]">© 2023 Copyright: Deepak Tiwari</div>
+                <div class="text-[#d3d2d2]">© 2025 Copyright: Deepak Tiwari</div>
                 <div class="flex justify-end">
                     <button class="border border-1 border-[#d3d2d2] text-[#d3d2d2] p-[10px] mx-2 rounded">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
